@@ -11,7 +11,7 @@ It's not stable or complete by any standards and it could erase your hard drive 
 
 If you're new to Ruby, like I am, there might be some handy links in the code. If you're a Ruby veteran, you will probably /facepalm a lot, and I'd love to hear your thoughts :)
 
-A demo can be seen [here](http://attilam.com/downer/).
+A demo (of its output) can be seen [here](http://attilam.com/downer/).
 
 ## Requirements
 
@@ -43,4 +43,4 @@ The output can be customized using the files in the templates folder:
 
 Markdowner was inspired by Steven Frank's PHP-based cms, [Laguna](http://code.google.com/p/laguna-blog/).
 
-There are a fair few links in the code with links to sites where I found solutions to problems.
+There are a fair few links in the code to sites where I found solutions to problems.
