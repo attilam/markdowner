@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>attilam.com</title>
+        <link>{base_url}</link>
+        <description>attilam.rss</description>
+        <language>en</language>
+        <copyright>Copyright 2011</copyright>
+        <lastBuildDate>{build_date}</lastBuildDate>
+        <generator>{base_url}</generator>
+		<docs>http://www.rssboard.org/rss-specification</docs>
+{items}
+    </channel>
+</rss>
